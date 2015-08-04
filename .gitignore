@@ -1,0 +1,17 @@
+*.swp
+*.pyc
+*.pyo
+*~
+*.kdev4
+*.backup
+.project
+.pydevproject
+.settings/
+*.kate-swp
+.ropeproject
+*.DS_Store
+
+# pycharm project settings
+.idea/
+# kdiff3 backups
+*.orig
